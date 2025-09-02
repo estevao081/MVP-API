@@ -1,4 +1,4 @@
-# NeonProjectAPI
+# NeoProjectAPI
 
 ## 📌 Sobre o projeto
 O **NeoProjectAPI** é um MVP de uma **API REST** desenvolvida em **Spring Boot** para o cadastro e gerenciamento de clientes pessoa física.  
